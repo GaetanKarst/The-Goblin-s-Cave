@@ -17,7 +17,7 @@ Three types of enemies
 3. Red Goblin: Melee enemy, slow-paced attack, difficulty to kill = Hard
 
 Three types of trap as you go through levels (One Shot the player):
-1. Dropping spikes: drops from the ceilling when the player passes under it.
+1. Dropping spikes: drops from the ceiling when the player passes under it.
 2. Hole: most of the time between two platforms, the player needs to jump over those holes. If he fails, the player looses a life on the spike down the hole.
 3. Lava: the lava is only really present in the last level (level 4).
 
