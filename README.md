@@ -1,4 +1,6 @@
 # The-Goblin-s-Cave
+To play the Game: https://sharemygame.com/@Genghast/the-gobelins-cave
+
 Description:
 
 The Goblin’s Cave is a 4 level 2D side-scroller platformer. The player is in a cave where the mains enemies are goblins and mushrooms warriors. The game features standard ActionAdventure games mechanics such as attacks, jumps, melee and range enemies and so on. The main objective of the game is to manage to collect all the coins (only collectible in the game) in levels without losing the 3 lives the players get at the beginning of the game. If the player looses its three lives, he is given the opportunity to restart the game from the beginning.
