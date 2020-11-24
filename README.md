@@ -1,5 +1,5 @@
 # The-Goblin-s-Cave
-To play the Game: https://sharemygame.com/@Genghast/the-gobelins-cave
+To play the Game: https://simmer.io/@Genghast/the-gobelins-cave
 
 Description:
 
